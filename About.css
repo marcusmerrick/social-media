@@ -103,6 +103,7 @@ body{
     background-color: none;
 }
 .right-column {
+    position: relative;
     width: 512px;
     height: 800px;
     float: right;
@@ -121,6 +122,12 @@ body{
     display: inline;
 }
 .right-column img{
-    display: inline;
-    border-radius: 50%;
+    float: left;
+    height: auto;
+    width: 100%;
+    display: inline-block;
+}
+.kid h3{
+    position: relative;
+    font-size: 48pt;
 }

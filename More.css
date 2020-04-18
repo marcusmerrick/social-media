@@ -120,3 +120,13 @@ body{
 .footer li{
     display: inline;
 }
+.right-column img{
+    float: left;
+    height: auto;
+    width: 100%;
+    display: inline-block;
+}
+.kid h3{
+    position: relative;
+    font-size: 48pt;
+}

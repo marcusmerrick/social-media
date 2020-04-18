@@ -124,3 +124,7 @@ body{
     display: inline;
     border-radius: 50%;
 }
+.kid h3{
+    position: relative;
+    font-size: 48pt;
+}
